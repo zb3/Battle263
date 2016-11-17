@@ -17,6 +17,12 @@ Well, there should be a game.. a battleships one with:
 * GUI (long live Swing!)
 * 46 other requirements that I had to fullfill but didn't :D
 
+**EDIT:** More precisely, in-game screen looks like this:
+
+![Scr33nsh0t h3r3](https://github.com/zb3/Battle263/raw/master/screen.png)
+
+Note that GFX in this game is so awesome that your brain replaces the screenshot above with some low quality one. In reality this game has the most advanced graphics in the world, but they're too awesome to be seen :(
+
 ## What's outside
 
 Pretty much everything that is not inside I guess (not sure tho)
